@@ -1,0 +1,6 @@
+fastapi==0.112.2
+uvicorn==0.30.6
+requests==2.32.3
+python-dotenv==1.0.1
+openai==1.41.0
+chromadb==0.5.5
